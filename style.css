@@ -127,7 +127,7 @@
   text-decoration: underline;
 }
 
-.macbook-pro .linkedin {
+.macbook-pro .text-wrapper-5 {
   position: absolute;
   top: 144px;
   left: 474px;
@@ -141,15 +141,6 @@
   text-decoration: underline;
 }
 
-.macbook-pro .span {
-  font-family: "Istok Web-Bold", Helvetica;
-  font-weight: 700;
-  color: #000000;
-  font-size: 40px;
-  letter-spacing: 0;
-  text-decoration: underline;
-}
-
 .macbook-pro .div-wrapper {
   position: absolute;
   width: 349px;
@@ -160,7 +151,7 @@
   border-radius: 174.5px/98.5px;
 }
 
-.macbook-pro .text-wrapper-5 {
+.macbook-pro .text-wrapper-6 {
   position: absolute;
   top: 97px;
   left: 149px;
