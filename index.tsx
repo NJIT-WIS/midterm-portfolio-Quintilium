@@ -1,6 +1,6 @@
 import type { NextPage } from "next";
 import styles from "./index.module.css";
-import React from 'react'
+import React from 'react';
 
 const MacBookPro141: NextPage = () => {
   return (
@@ -22,7 +22,7 @@ const MacBookPro141: NextPage = () => {
         <p className={styles.iAmA}>work to create innovative solutions</p>
         <p
           className={styles.iAmA}
-        >{`to new tasks and tests that I face in thiscompetitive industry. I work hard to `}</p>
+        >{`to new tasks and tests that I face in this competitive industry. I work hard to `}</p>
         <p className={styles.iAmA}>create easy to use and polished products</p>
       </b>
       <div className={styles.macbookPro141Inner} />
