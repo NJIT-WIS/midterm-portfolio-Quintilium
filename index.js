@@ -1,6 +1,4 @@
 import styles from "./index.module.css";
-<img className='image' />` 
-
 
 const MacBookPro141 = () => {
   return (
